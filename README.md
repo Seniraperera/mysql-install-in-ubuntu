@@ -1,5 +1,5 @@
 # Update package list
-```sudo apt update```
+```bash sudo apt update```
 
 # Install MySQL Server
 sudo apt install mysql-server
